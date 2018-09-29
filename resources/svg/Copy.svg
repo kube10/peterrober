@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1017">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2c2a38;
+      }
+
+      .cls-2, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-3, .cls-6, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 40px;
+      }
+
+      .cls-3, .cls-6 {
+        font-family: Raleway-Bold, Raleway;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-size: 36px;
+      }
+
+      .cls-5 {
+        font-size: 30px;
+        font-weight: 400;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: Raleway-Regular, Raleway;
+      }
+
+      .cls-6 {
+        font-size: 29px;
+      }
+
+      .cls-7 {
+        font-size: 18px;
+      }
+
+      .cls-8 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Copy" transform="translate(-21 -31)">
+    <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-1" width="720" height="1017" transform="translate(21 31)"/>
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-2" transform="translate(116 274)">
+      <circle class="cls-8" cx="264.5" cy="264.5" r="264.5"/>
+      <circle class="cls-9" cx="264.5" cy="264.5" r="263.5"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-2" transform="translate(108 266)">
+      <circle class="cls-8" cx="272.5" cy="272.5" r="272.5"/>
+      <circle class="cls-9" cx="272.5" cy="272.5" r="271.5"/>
+    </g>
+    <text id="IN_THERAPY_TOGETHER_FAMILY_THERAPY_AS_A_DIALOGUE" data-name="IN THERAPY TOGETHER
+
+FAMILY THERAPY AS A DIALOGUE" class="cls-3" transform="translate(240 434)"><tspan x="20.38" y="38">IN THERAPY </tspan><tspan x="35.04" y="85">TOGETHER</tspan><tspan class="cls-4"><tspan x="141" y="128"></tspan></tspan><tspan class="cls-5"><tspan x="15.345" y="164">FAMILY THERAPY </tspan><tspan x="29.94" y="199">AS A DIALOGUE</tspan></tspan></text>
+    <text id="PETER_ROBER" data-name="PETER ROBER" class="cls-6" transform="translate(381 954)"><tspan x="-97.382" y="0">PETER ROBER</tspan></text>
+    <text id="BASIC_TEXTS_IN_COUNSELLING_AND_PSYCHOTHERAPY" data-name="BASIC TEXTS IN COUNSELLING AND PSYCHOTHERAPY" class="cls-7" transform="translate(381 126)"><tspan x="-233.064" y="0">BASIC TEXTS IN COUNSELLING AND PSYCHOTHERAPY</tspan></text>
+    <text id="SERIES_EDITORS:_ARLENE_VETERE_AND_RUDI_DALLOS" data-name="SERIES EDITORS: ARLENE VETERE AND RUDI DALLOS" class="cls-7" transform="translate(381 167)"><tspan x="-226.35" y="0">SERIES EDITORS: ARLENE VETERE AND RUDI DALLOS</tspan></text>
+    <line id="Line_1" data-name="Line 1" class="cls-2" x2="26" transform="translate(367.5 141.5)"/>
+  </g>
+</svg>
